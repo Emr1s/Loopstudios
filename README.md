@@ -1,3 +1,5 @@
+![ezgif com-video-to-gif](https://github.com/Emr1s/Loopstudios/assets/33460622/b91ee7f9-def9-4e92-be4b-c36f0cd6effd)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
